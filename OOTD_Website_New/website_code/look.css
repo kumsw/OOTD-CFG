@@ -1,0 +1,110 @@
+title{
+  text-align: center;
+  font-family: 'Sen', sans-serif;
+
+}
+
+body{
+background-color: #f7ebec;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+    align-items: center;
+  }
+
+h1{
+    font-family: 'Sen', sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    padding: 60px 10px 10px 10px;
+  }
+
+   p{
+      font-family: 'Montserrat', sans-serif;
+      text-align: center;
+      color: black;
+      font-weight: bold;
+      padding: 20px 10px 10px 10px;
+      font-weight: bold;
+    }
+
+  li {
+    float: right;
+  }
+
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+
+#card-title { 
+  align-items: center;
+  font-family: 'Sen', sans-serif;
+  font-weight: bold;
+  color: black; 
+  padding: 20px 10px 10px 10px;
+}
+
+#card-text{
+  font-family: 'Sen', sans-serif;
+  color: black;  
+  text-align: center;
+  padding: 20px 10px 10px 10px;
+}
+.form{
+  padding: 20px 10px 10px 10px;
+  border: 10px;
+  width: 600px;
+  align-self: center;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+/* second page */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    text-align: center;
+    font-family: arial;
+    margin: auto;
+    align-items: center;
+    display:inline-block;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
