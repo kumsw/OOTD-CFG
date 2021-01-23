@@ -1,6 +1,6 @@
-# Code First Girls - final website: OOTD
+# Code First Girls - Final website
 
-**Final website for CFG**
+**Final website for CFGs**
 
 ##### March 2020
 
